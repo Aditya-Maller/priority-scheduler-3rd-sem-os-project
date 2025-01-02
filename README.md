@@ -1,0 +1,1 @@
+This is a project we built to simulate a non preemptive scheduling algorithm for our course on operating systems, it shows the various attributes of a process that can help you learn if you are a student, All the best! just run the c file and make sure you have a compiler for that
